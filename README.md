@@ -24,6 +24,8 @@ I recommend before installing this going into your mod menu, going to the addons
 
 Remove the original file "modW3EE" from your mod directory. Then download this mod and place it in your mod directory effectively replacing it. Also navigate to documents/The Witcher 3 and replace the input.settings file with the one from the mod
 
+You should also delete the scripts folder from EE Redux's mod file as its scripts are already integrated into the mod
+
 You will also need to remove the following xml files from bin/config/r4game/user_config_matrix/pc
 
 modFHUDConfig.xml
@@ -35,3 +37,5 @@ modMoreQuickSlots.xml
 
 
 If there are issues with the mod then do let me know so I can rectify them
+
+Thanks to Wolven Workshop for their assistance as well as ReaperAnon and the EE Team for creating EE in the first place
